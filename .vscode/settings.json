@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/lizhang/Developments/FastText/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "yapf"
+}

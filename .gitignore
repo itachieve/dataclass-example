@@ -1,0 +1,14 @@
+# ignore the bin and lib folder
+/bin/*
+/lib/*
+
+# ignore all the models bin files
+./model/*.bin
+
+# ignore all the logs file
+./log/*.log
+
+# ignore other files
+.Python
+.DS_Store
+pyvenv.cfg

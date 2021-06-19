@@ -1,0 +1,9 @@
+[MASTER]
+init-hook='import sys; sys.path.append("./src")'
+
+
+[MESSAGE]
+    disable:
+        missing-class-docstring,
+        missing-module-docstring,
+        missing-function-docstring

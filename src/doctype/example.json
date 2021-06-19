@@ -1,0 +1,26 @@
+{
+    "bill-of-lading-number":[
+       {
+          "filename":"FILE_000001",
+          "position":{
+             "x0":0.0,
+             "y0":0.0,
+             "x1":100,
+             "y1":100
+          },
+          "title":"HAWB:",
+          "ocr_result":"HAWB:"
+       },
+       {
+          "filename":"FILE_000002",
+          "position":{
+             "x0":150.0,
+             "y0":150.0,
+             "x1":100,
+             "y1":100
+          },
+          "title":"HAWB",
+          "ocr_result":"HAWB"
+       }
+    ]
+ }
